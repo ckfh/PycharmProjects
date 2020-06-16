@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+import config
 
 cap = cv2.VideoCapture(0)
 floder_left = r"C:\Users\Administrator\Desktop\left"
